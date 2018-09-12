@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Тестируем PHP</title>
+  <title>First</title>
  </head>
  <body>
  <?php echo '<p>УРА.</p>'; ?>
